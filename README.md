@@ -1,19 +1,21 @@
 # Rise Finance
 
-Fintech Landingpage Concept 
+<img src="/wallpaper.png" alt="wallpaper do projeto rise finance" />
+
+Fintech Landingpage Concept
 
 ## Como utilizar
 
 1. Clonar repositório
 
 2. Instalar dependências
-``npm i``
+   `npm i`
 
 3. Iniciar projeto Local
-``npm run dev``
+   `npm run dev`
 
 4. Acessar aplicação
-``http://localhost:5173/``
+   `http://localhost:5173/`
 
 ## Tecnologias utilizadas
 
