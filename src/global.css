@@ -1,0 +1,42 @@
+:root {
+  --white: #fff;
+  --blue-900: #121139;
+
+  --purple-300: #9130F4;
+  --purple-500: #4646F9;
+
+  --red-500: #F75A68;
+}
+
+@media (max-width: 1440px) {
+
+  html {
+    font-size: 80%;
+  }
+}
+
+:focus {
+  outline: transparent;
+  box-shadow: 0 0 0 2px var(--purple-500);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+ body {
+  background-image: url("./assets/background.svg");
+  background-size: cover;
+  color: var(--white);
+  -webkit-font-smoothing: antialiased;
+ }
+
+
+
+ body, input, textarea, button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+ }
